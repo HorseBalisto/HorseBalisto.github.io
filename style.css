@@ -1,0 +1,54 @@
+#Citation{
+font-style: italic;
+font-size: 20px
+}
+body{
+background-color:#DBBA98;
+}
+h1{
+letter-spacing: 5px;  
+font-family: fangsong;
+text-align: center;
+font-size: 60px;
+background-color: #530D0D;
+color: #FFFFFF;
+}
+h2{
+font-family: Brush Script MT, Brush Script Std, cursive ;
+letter-spacing: 3px;  
+color: #FFFFFF;
+text-align: center;
+font-size: 35px;
+}
+.table{
+text-align: center;
+}
+img {
+max-width: 100%;
+height: auto;
+}
+#steve{
+clip-path:ellipse(50% 50%);
+} 
+#cavalier{
+text-align: center;
+font-size: 20px;   
+}
+#description1{
+text-align: center;
+}
+h5{
+text-align: center;
+}
+.presentation{
+text-align: center;
+}
+.deux{
+width: 50%;
+text-align: center;
+}
+.trois{
+width: 50%;
+}
+
+
